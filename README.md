@@ -16,7 +16,7 @@ Atualmente, a aplicação permite criar uma conta bancária, escolher entre cont
 ##  Tecnologias utilizadas
 
 - **Java** — linguagem de programação utilizada no desenvolvimento.
-- **Git e GitHub** — controle de versão e armazenamento do código-fonte.
+- **GitHub** — controle de versão e armazenamento do código-fonte.
 
 ##  Objetivos de aprendizado
 
