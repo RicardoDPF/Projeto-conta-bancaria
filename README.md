@@ -23,7 +23,7 @@ Atualmente, a aplicação permite criar uma conta bancária, escolher entre cont
 - Praticar os fundamentos da linguagem Java.
 - Desenvolver a lógica de programação.
 - Aplicar conceitos de Programação Orientada a Objetos.
-- Aprimorar o uso do Git e do GitHub no gerenciamento de projetos.
+- Aprimorar o uso do GitHub no gerenciamento de projetos.
 
 ##  Próximos passos
 
